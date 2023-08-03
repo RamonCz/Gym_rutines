@@ -1,0 +1,11 @@
+# =================================================
+# Configuración para text_extractor.py
+# =================================================
+
+github:
+  repos:
+    - owner: Gym
+      repo: blog
+      path: /
+
+  
